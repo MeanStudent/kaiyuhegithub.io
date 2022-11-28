@@ -1,0 +1,38 @@
+name: "KaiYu's Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Data"
+      href: index.html
+    - text: "Data Analysis"
+      menu:
+      - text: "Data Exploration"
+        href: index.html
+      - text: "Data Analysis"
+        href:  index.html
+    - text: "Interactive apps"
+      menu: 
+      - text: "Drug Use Overview"
+        href: https://meanstudent.shinyapps.io/yrbss_overview_shinyapp/
+      - text: "Drug Use Proportion & Marijuana Start Age"
+        href: https://meanstudent.shinyapps.io/new_shiny/
+    - text: "Related Work"
+      menu:
+      - text: "1"
+        href: 
+      - text: "2"
+        href: 
+      - text: "3"
+        href: 
+    - text: "Report"
+      href: 
+    - text: "about"
+      href: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<kh3074@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/ryan2417/drug_abuse_among_youth.github.io.git
+output:
+  html_document: 
+    theme: journal
