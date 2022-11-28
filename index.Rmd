@@ -23,13 +23,6 @@ I love artificial intelligence and hope to combine AI methods with game developm
 ![Alt Text](resources/topdown_2d.gif)  ![Alt Text](resources/EEG.gif)  
 ![Alt Text](resources/call_response.gif)  ![Alt Text](resources/space.gif) 
 
-
-### To know more about me, you can:
-Check out my research and other experience: [experience](experience.md) page!
-
-Take a look at my personal projects: [personal projects](projects.md)!
-
-Something else: [Miscellaneous](miscellaneous.md)
 <br>
 
 

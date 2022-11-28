@@ -3,21 +3,19 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Data"
-      href: index.html
-    - text: "Data Analysis"
+    - text: "Projects"
       menu:
-      - text: "Data Exploration"
-        href: index.html
-      - text: "Data Analysis"
-        href:  index.html
-    - text: "Interactive apps"
+      - text: "Research Projects"
+        href: wait_for_update.html
+      - text: "Personal Projects"
+        href: wait_for_update.html
+    - text: "Games demo"
       menu: 
-      - text: "Drug Use Overview"
+      - text: "Star Space"
         href: https://meanstudent.shinyapps.io/yrbss_overview_shinyapp/
       - text: "Drug Use Proportion & Marijuana Start Age"
         href: https://meanstudent.shinyapps.io/new_shiny/
-    - text: "Related Work"
+    - text: "Miscellaneous"
       menu:
       - text: "1"
         href: 
@@ -25,14 +23,13 @@ navbar:
         href: 
       - text: "3"
         href: 
-    - text: "Report"
+    - text: 
       href: 
-    - text: "about"
+    - text: 
       href: 
     - icon: fa-envelope fa-lg
       href: mailto:<kh3074@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: https://github.com/ryan2417/drug_abuse_among_youth.github.io.git
+
 output:
   html_document: 
     theme: journal
