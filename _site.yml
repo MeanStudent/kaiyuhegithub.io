@@ -11,8 +11,6 @@ navbar:
         href: wait_for_update.html
     - text: "Games demo"
       menu: 
-      - text: "Star Space"
-        href: https://meanstudent.shinyapps.io/yrbss_overview_shinyapp/
       - text: "Drug Use Proportion & Marijuana Start Age"
         href: https://meanstudent.shinyapps.io/new_shiny/
     - text: "Miscellaneous"

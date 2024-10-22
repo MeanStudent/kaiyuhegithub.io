@@ -12,10 +12,8 @@ output: html_document
 ![](resources/avat.jpg)
 </center>
 
-I’m a second-year M.S. student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics). My advisors are Professor [Sen Pei](http://www.columbia.edu/~sp3449/) and professor [Xiaofu He](http://www.columbia.edu/~xh2170/), And I graduated form [Renmin university](https://www.ruc.edu.cn/en) statistic school in 2020.  
+I’m a second-year M.S. student at University of Taxas at Dallas(UTD). My advisors are Professor [Sen Pei](http://www.columbia.edu/~sp3449/) and professor [Xiaofu He](http://www.columbia.edu/~xh2170/), And I graduated form [Renmin university](https://www.ruc.edu.cn/en) statistic school in 2020.  
 I love artificial intelligence and hope to combine AI methods with game development together to build a game that has NPCs that can learn and interact with players in unpredictable ways. And I want to start this journey by discovering how natural language expresses our thoughts.
-
-### [CV](resources/kaiyu_cv.pdf) [GitHub](https://github.com/MeanStudent)
 
 
 # Some of my project samples!
